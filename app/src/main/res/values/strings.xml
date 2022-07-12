@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Food Menu</string>
+    <string name="affirmation1">Aromatic golden chicken pieces in an incredible creamy curry sauce</string>
+    <string name="affirmation2">Aromatic golden chicken pieces in an incredible buttery curry sauce</string>
+    <string name="affirmation3">Classic Indian meat dish with a distinct flavor and aroma made from lamb</string>
+    <string name="affirmation4">Intricate rice dish made with layers of curried meat and rice.</string>
+    <string name="affirmation5">Smoked pork ribs with BBQ sauce</string>
+    <string name="affirmation6">Double fried chicken wings with buffalo sauce</string>
+    <string name="affirmation7">Cooked on fire grill with rosemary and butter</string>
+    <string name="affirmation8">Authentic corn tortilla steak tacos with cilantro, lime and onions</string>
+    <string name="affirmation9">Delicious beef noodle soup with flank steaks, briskets and meatballs</string>
+    <string name="affirmation10">Fried rice made with different sauces and flavor, comes with choice of protein</string>
+
+    <string name="title1">Chicken Tikka Masala</string>
+    <string name="title2">Butter Chicken</string>
+    <string name="title3">Lamb Masala</string>
+    <string name="title4">Biryani</string>
+    <string name="title5">BBQ Ribs</string>
+    <string name="title6">Chicken Wings</string>
+    <string name="title7">Steak</string>
+    <string name="title8">Street Tacos</string>
+    <string name="title9">Pho</string>
+    <string name="title10">Fried Rice</string>
+</resources>
